@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'FreeMono', monospace;
+}
+h1{
+    color: black;
+    text-align: center;
+    margin: 20px
+}
+p{
+    text-align: center;
+    margin:20px
+}
